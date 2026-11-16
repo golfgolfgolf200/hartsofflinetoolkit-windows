@@ -1,3 +1,3 @@
 # Official Website
 
-[HartsOfflineToolkit](https://hartsofflinetoolkit.com)
+https://hartsofflinetoolkit.com
