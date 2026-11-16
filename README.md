@@ -1,7 +1,7 @@
 # HartsOfflineToolkit (Windows 10 / 11 Edition)
 
 **Official Website:** [https://hartsofflinetoolkit.com](https://hartsofflinetoolkit.com)  
-**Linux Edition:** [https://github.com/golfgolfgolf200/hartsofflinetoolkit](https://github.com/golfgolfgolf200/hartsofflinetoolkit)
+**Linux Edition:** [https://github.com/golfgolfgolf200/hartsofflinetoolkit-linux](https://github.com/golfgolfgolf200/hartsofflinetoolkit-linux)
 
 **HartsOfflineToolkit for Windows** is an air-gapped, CPU-only hybrid semantic search engine and Model Context Protocol (MCP) server built natively for Windows 10 and Windows 11 (x86_64) — no WSL, Docker, or GPU required.
 
@@ -23,7 +23,7 @@ It combines **Google EmbeddingGemma 2** (`google/embeddinggemma-2`, truncated vi
 
 ```powershell
 # 1. Clone the Windows repository
-git clone https://github.com/golfgolfgolf200/hartsofflinetoolkit-windows.git
+git clone https://github.com/golfgolfgolf200/hartsofflinetoolkit-linux-windows.git
 cd hartsofflinetoolkit-windows
 
 # 2. Verify repository file hashes against SHA256SUMS
